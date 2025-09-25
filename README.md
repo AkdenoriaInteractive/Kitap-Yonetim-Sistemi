@@ -1,6 +1,6 @@
 # 📚 Kitap Yönetim Sistemi
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/kullaniciAdi/kitap-yonetim-sistemi)
+![GitHub release (latest by date)](https://github.com/AkdenoriaInteractive/Kitap-Yonetim-Sistemi/releases/tag/v1.0.0)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
